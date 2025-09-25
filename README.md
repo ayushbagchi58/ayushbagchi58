@@ -86,7 +86,11 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushbagchi58&theme=tokyo-night&hide_border=true)  
 
 <!-- Snake contribution graph -->
-![snake animation](https://github.com/ayushbagchi58/ayushbagchi58/blob/output/snake.svg)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ayushbagchi58/ayushbagchi58/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 
 </div>
