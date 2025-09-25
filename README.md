@@ -98,8 +98,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushbagchi58&repo=moviebuff&theme=tokyonight&hide_border=true)](https://github.com/ayushbagchi58/moviebuff)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushbagchi58&repo=luxora&theme=tokyonight&hide_border=true)](https://github.com/ayushbagchi58/luxora)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushbagchi58&repo=fishers&theme=tokyonight&hide_border=true)](https://github.com/ayushbagchi58/Fishers--A-Fishbase-Explorer-)  
-
 </div>
 
 ---
