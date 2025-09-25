@@ -2,8 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:       # allows you to run manually from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   
 
 jobs:
   build:
@@ -16,7 +19,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ayushbagchi58   # 👉 change to your GitHub username
+          github_user_name: ayushbagchi58
           outputs: dist/snake.svg
 
       - name: Push Snake Animation to output branch
